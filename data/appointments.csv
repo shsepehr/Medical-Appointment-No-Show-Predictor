@@ -1,0 +1,6 @@
+age,gender,scheduled_day,appointment_day,sms_received,previous_no_show,show
+25,F,2024-01-01,2024-01-05,1,0,Yes
+60,M,2024-01-02,2024-01-10,0,1,No
+45,F,2024-01-03,2024-01-04,1,0,Yes
+30,M,2024-01-01,2024-01-20,0,1,No
+50,F,2024-01-05,2024-01-07,1,0,Yes
